@@ -5,7 +5,8 @@ Abstract :
 
 Citizen participation (CP) is today at the heart of many speeches but struggles to impose itself in public institutions. In the case of urban design (DU), encouraging initiatives can be observed. Nevertheless, observations also point out that the methodologies currently used are mainly based on artisanal tools. This thesis focuses on the integration of digital tools in the process of citizen participation in the development of public spaces. More specifically, the work focuses on a collaborative approach that applies the concepts of co-design, which aims to bring citizens and urban design professionals together in one place, to build a common language and a shared vision. Through a research methodology based on design science, this transdisciplinary research considers both the context of application, and theories in the field of digital CP and co-design. It is emphasized that the existing research work is either too theoretical in the field of PC and do not propose the instantiation and the evaluation of an artifact through a prototype, or too centered on the technology, leaving aside the context of application. In addition, in order to fill a gap in the current state of the art, a special emphasis is placed on improving citizens' creative expression abilities through co-design, and the realization of an intuitive interface dedicated to amateurs.
 
-[Thesis link]([https://pages.github.com/](https://pastel.hal.science/tel-02192083))
+Thesis link : https://pages.github.com/](https://pastel.hal.science/tel-02192083
+
 
 <img width="1280" alt="config-utility" src="https://github.com/Biouche/Shaping-The-Place/assets/5521028/5af3c2b1-c1c5-4ae0-acd9-861cae5aa48f">
 
