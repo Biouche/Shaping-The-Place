@@ -1,7 +1,7 @@
 # Shaping-The-Place
 An interactive software to foster citizen participation in urban design projects.
 
-Made with unity for touch tables and VR headsets.
+Made with Unity for touch tables and VR headsets.
 
 Abstract :
 
